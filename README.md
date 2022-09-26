@@ -46,7 +46,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eddieandres&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="eddiandres Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eddieandres&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="eddieandres Github Stats">
 </p>
 <br>
 <p align='center'>
